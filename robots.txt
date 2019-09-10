@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shoojohha.devopsy.com/sitemap.xml
